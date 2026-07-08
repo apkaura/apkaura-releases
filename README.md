@@ -8,7 +8,7 @@ A privacy-first Android browser built for people who install APKs.
 - **Telegram channel**: https://t.me/ApkauraApp
 - **Contact**: dev@apkaura.app
 
-Alpha stage; source is closed for V1. Release notes are posted on the
+Beta stage; source is closed for V1. Release notes are posted on the
 Telegram channel.
 
 ## Latest release
