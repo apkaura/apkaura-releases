@@ -1,0 +1,14 @@
+Silent install support for split-APK bundles.
+
+- Silent install via Shizuku now works for .xapk, .apkm and .apks bundles
+- Shizuku status updates in real time — no need to restart after starting the service or granting permission
+- Compatibility fix for the latest .apkm bundle format on Android 16
+- Compatibility fix for split-APK bundles on Android 9
+- Corrupted APK files are now labeled correctly instead of "unsigned"
+- Permission check for unknown-source installs happens before unpacking
+- Install sheet: security scan result is always tappable, dark-mode readability improved
+- Refreshed onboarding with three intent options (Explore / Install / Update)
+- Improved Downloads empty state for first-time users
+- Fixed a new-tab page layout issue when desktop mode is enabled
+
+APK size: 7.4 MB

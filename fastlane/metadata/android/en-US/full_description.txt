@@ -1,0 +1,18 @@
+Apkaura is the browser for APK users — people who install apps outside the Play Store from APKMirror, F-Droid, independent developers, and open-source communities.
+
+At only 7 MB and requiring no Google Play Services, Apkaura runs on any Android 7.0 or newer device, including GMS-less phones and custom ROMs.
+
+Every APK is verified before install, no matter where it comes from. Point Apkaura at any APK on your device — a file manager, a Telegram or chat attachment, a browser download, or a share from another app — and the built-in APK Inspector checks the signature, audits requested permissions, and runs a VirusTotal scan on every APK, XAPK, APKS, and APKM file before you install it. Optional Shizuku integration enables silent installs without repeated system prompts.
+
+Additional features include private tabs that stay off the recent-apps screen, ad and tracker blocking, and a distraction-free Reader Mode with light, sepia, and dark themes.
+
+Website: https://apkaura.app
+Verify signing certificate: https://apkaura.app/verify
+Telegram channel: https://t.me/ApkauraApp
+Contact: dev@apkaura.app
+
+---
+
+Anti-features disclosure
+
+This build includes Firebase Crashlytics and Analytics for crash reporting and product decisions. VirusTotal API scans APK hashes via a Cloudflare Worker proxy. No user identifiers are sent to third parties. Privacy policy: https://apkaura.app/legal/privacy
